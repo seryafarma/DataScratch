@@ -1,2 +1,2 @@
 # DataScratch
-A scratchpad that I make for prototyping and learning about descriptive statistics.
+A scratchpad that I make for learning data science in R and in python.
